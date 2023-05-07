@@ -7,7 +7,10 @@ Here are screenshots of examples of my work.
 ***miniRT***  
 red balls|wolf
 ------------- | -------------
-![miniRT](https://github.com/lignigno/exemples/blob/main/miniRT_red.jpg)|![miniRT](https://github.com/lignigno/exemples/blob/main/wolf.bmp)
+![red balls](https://github.com/lignigno/exemples/blob/main/miniRT_red.jpg)|![wolf](https://github.com/lignigno/exemples/blob/main/wolf.bmp)
 ***
 ***Test tasks***  
-![miniRT](https://github.com/lignigno/exemples/blob/main/Peek%202023-05-07%2021-04.gif)
+![Test tasks 1](https://github.com/lignigno/exemples/blob/main/Peek%202023-05-07%2021-04.gif)
+***
+***Other***  
+![kesha](https://github.com/lignigno/exemples/blob/main/kesha.gif)
